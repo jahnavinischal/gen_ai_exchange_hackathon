@@ -26,11 +26,14 @@ Below is a screenshot of the interface.
 
 ## 📂 Project Structure  
 
-  gen_ai_exchange_hackathon/
-  │── app.py # Main Streamlit app
-  │── requirements.txt # Dependencies
-  │── .env # API key (local only, not in repo)
-  │── README.md # Documentation
+```bash
+gen_ai_exchange_hackathon/
+│── app.py              # Main Streamlit app
+│── requirements.txt    # Dependencies
+│── .env                # API key (local only, not in repo)
+│── README.md           # Documentation
+```
+
 ---
 
 ## 🔑 Setup & Installation  
