@@ -4,6 +4,7 @@ An AI-powered platform that empowers local artisans to showcase and market their
 
 The app is deployed at this site:
 [Link to webapp](https://genaiexchangehackathon-bjxazhemrsgreqwwkrbok8.streamlit.app/)
+
 Below is a screenshot of the interface.
 <img width="1888" height="963" alt="image" src="https://github.com/user-attachments/assets/95f39485-c406-47bd-8651-f3b4eaa0c8f6" />
 
